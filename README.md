@@ -1,1 +1,1 @@
-# ReactJs2
+# GDSC Study Jam 1
